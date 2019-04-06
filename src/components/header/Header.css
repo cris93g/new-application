@@ -1,6 +1,22 @@
 .Header {
-	background-color: rgb(220, 220, 220);
-	height: 15%;
-	width: 100%;
-	border-bottom: 1px solid rgb(180, 174, 174);
+  display: flex;
+  background-color: rgb(220, 220, 220);
+  height: 13%;
+  width: 100%;
+  border-bottom: 1px solid rgb(180, 174, 174);
+}
+
+.title {
+  width: 30%;
+  margin-left: 40px;
+}
+
+.links {
+  display: flex;
+  /* justifys-content: space-around; */
+  /* justify-content: space-between; */
+}
+.mylinks {
+  display: flex;
+  justify-content: space-around;
 }

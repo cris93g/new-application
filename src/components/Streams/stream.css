@@ -1,0 +1,15 @@
+.cardsD {
+  display: flex;
+  margin-top: 65px;
+  width: 100px;
+  height: 200px;
+  margin-left: 40px;
+}
+
+.cards {
+  margin-left: 30px;
+}
+
+.cardPic {
+  border-radius: 20px;
+}
